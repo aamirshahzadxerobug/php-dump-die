@@ -1,0 +1,18 @@
+{
+    "name": "aamirshahzadxerobug/php-dump-die",
+    "description": "Dump Die package based on symfony/var-dumper.",
+    "type": "php-extension",
+    "keywords": ["dump-die", "dd", "var-dump", "var-dumper", "dumper", "dump die"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Xerobug Technologies"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ]
+    }
+}
